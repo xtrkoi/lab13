@@ -1,0 +1,34 @@
+#myCarousel, .carousel-inner, .carousel-item, .carousel-item.active {
+    height: 70vh;
+}
+
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/77.jpg');
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/79.jpg');
+}
+
+/* @media (min-width: 992px) {
+    #myCarousel {
+        margin-top: -58.59px;
+    }
+
+    #myCarousel,
+    .carousel-inner,
+    .carousel-item,
+    .carousel-item.active {
+        height: 50vh;
+    }
+} */
